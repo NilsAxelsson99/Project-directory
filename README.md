@@ -10,7 +10,7 @@ My hope with this project is that I will learn how to manage my (continuously up
 # Multi-Agent Formation Control Simulation
 
 ## Project Description
-This project is a Matlab-based simulation environment for multi-agent systems. It allows for the simulation of agents (unicycle models) that coordinate to track a shared centroid reference trajectory. The system uses real-block DFT matrices and low-frequency projections (Fourier Descriptors) to maintain formation shapes.
+This project is a Matlab-based simulation environment for multi-agent systems. It allows for the simulation of agents (unicycle models) that coordinate to track a shared centroid reference trajectory. The system uses real-block DFT matrices and low-frequency projections obtained from truncating a set of Fourier descriptors to specify and maintain formation shapes.
 
 ## Features
 - **Trajectory Options**: Supports centroid tracking for ellipses, circles, lines, and lemniscates (infinity signs).
